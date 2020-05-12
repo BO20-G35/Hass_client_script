@@ -11,7 +11,7 @@ if len(sys.argv) != 2:
 url = str(sys.argv[1])
 
 data = {'username': 'admin', 
-        'password': 'admin',
+        'password': 'SIN{0452d68b490312580451c60caedcd1f1}',
         'client_id': 'https://home-assistant.io/android',
         }
 
